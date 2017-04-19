@@ -1,0 +1,26 @@
+body {
+  text-align: center;
+  font-family: sans-serif;
+  background-color: lightpink;
+}
+
+.flashy {
+  color: red;
+  font-style: italic;
+  word-wrap: break-word;
+  max-width: 700px;
+  margin: auto;
+}
+
+.best {
+  font-weight: bolder;
+  text-decoration: underline;
+  color: white;
+  word-wrap: break-word;
+  max-width: 700px;
+  margin: auto;
+}
+
+.main {
+  position: relative;
+}
